@@ -156,3 +156,8 @@ It demonstrates practical usage of authentication, authorization, validation, an
 
 ## License
 This project is licensed under the MIT License.
+
+## 👤 Author
+**Oğuzhan Bilgin**
+- [Github](https://github.com/oguzbilgin)
+- [LinkedIn](https://www.linkedin.com/in/oguzhanbilgin/)
