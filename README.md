@@ -56,7 +56,7 @@ This project is designed as a **backend portfolio project**, following real-worl
 ---
 
 ## 📁 Project Structure
-
+```
 src/
 ├── controllers/
 │ ├── auth.controller.js
@@ -76,7 +76,7 @@ src/
 ├── config/
 │ └── db.js
 └── app.js
-
+```
 ---
 
 ## API Endpoints
